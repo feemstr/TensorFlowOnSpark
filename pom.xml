@@ -24,7 +24,7 @@
         <scala-parser-combinators.version>1.1.2</scala-parser-combinators.version>
         <scalatest.version>3.0.5</scalatest.version>
         <scalatest-maven-plugin.version>1.0</scalatest-maven-plugin.version>
-        <scopt.version>3.7.0</scopt.version>
+        <scopt.version>3.7.1</scopt.version>
         <tensorflow.version>1.15.0</tensorflow.version>
     </properties>
     <dependencies>
